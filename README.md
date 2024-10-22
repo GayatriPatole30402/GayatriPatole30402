@@ -1,4 +1,4 @@
-![logo](https://github.com/GayatriPatole30402/GayatriPatole30402/blob/main/Github%20Banner.png)
+![logo](https://github.com/GayatriPatole30402/GayatriPatole30402/blob/main/Linkedin%20banner.png)
 <h1 align="center">Hi 👋, I'm Gayatri Patole</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
