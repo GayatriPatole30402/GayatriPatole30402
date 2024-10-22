@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/gayatripatole-a1a40120a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gayatripatole-a1a40120a/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@skillsitacademy2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@skillsitacademy2024" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gayatripatole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatripatole" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@SkillsITAcademy2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@skillsitacademy2024" height="30" width="40" /></a>
+<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gayatripatole" height="30" width="40" /></a>
 </p>
 
 
